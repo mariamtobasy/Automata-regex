@@ -3,3 +3,6 @@
    on a network . provide essential location information,facilitating device accessibility for communication.</h3>
 
    
+## Demo
+
+<video src="automata-demo.mp4" controls width="600"></video>
