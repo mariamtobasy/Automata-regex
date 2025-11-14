@@ -1,8 +1,9 @@
-<h1>IP Address</h1>
-<h3>This project highlights the significance of IP (Internet Protocol) addresses, which serve as unique identifiers enabling information exchange between devices 
-   on a network . provide essential location information,facilitating device accessibility for communication.</h3>
+# IP Address Detector
 
-   
+This project detects IP addresses (both IPv4 and IPv6) and shows IPv4 geographical location.  
+It identifies where an IP belongs — for example, China, the United States, or other regions.
+
 ## Demo
 
-<video src="IpAddProj.mp4" controls width="600"></video>
+You can download and view the demo video here: [IpAddProj.mp4](IpAddProj.mp4)
+
