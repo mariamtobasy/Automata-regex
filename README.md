@@ -1,7 +1,7 @@
 
 
 ### Automata Regex Project – Java & PHP
-<br><br>
+<br>
 This project detects IP addresses (both IPv4 and IPv6) and shows IPv4 geographical location.  
 It identifies where an IP belongs — for example, China, the United States, or other regions.
 <br><br>
